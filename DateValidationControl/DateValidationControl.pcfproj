@@ -1,0 +1,8 @@
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Name>DateValidationControl</Name>
+    <ProjectGuid>{8E7E4F51-8C9E-4C9D-A6D5-5B6E1F3F1D31}</ProjectGuid>
+    <OutputPath>$(MSBuildThisFileDirectory)out\controls</OutputPath>
+    <PcfBuildMode>development</PcfBuildMode>
+  </PropertyGroup>
+</Project>

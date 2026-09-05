@@ -1,0 +1,21 @@
+{
+  "name": "datevalidationcontrol",
+  "version": "0.0.1",
+  "description": "Date Validation PCF control extracted from the supplied sample screenshots.",
+  "scripts": {
+    "build": "pcf-scripts build",
+    "start": "pcf-scripts start",
+    "clean": "pcf-scripts clean"
+  },
+  "dependencies": {
+    "@fluentui/react": "8.121.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.68",
+    "@types/react-dom": "17.0.22",
+    "pcf-scripts": "^1.0.0",
+    "typescript": "^4.9.5"
+  }
+}
